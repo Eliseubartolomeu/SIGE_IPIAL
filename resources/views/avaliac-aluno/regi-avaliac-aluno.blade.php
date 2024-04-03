@@ -1,1 +1,0 @@
-Página para registar as avaliacoes dos alunos

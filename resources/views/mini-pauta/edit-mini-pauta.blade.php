@@ -1,1 +1,0 @@
-Pagina para editar mini-pauta se for o caso
